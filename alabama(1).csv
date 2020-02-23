@@ -1,0 +1,30 @@
+STATE,MONTH_NAME,EVENT_TYPE,CZ_NAME,Severity
+ALABAMA,April,Tornado,DALE,1
+ALABAMA,February,Flood,HOUSTON,1
+ALABAMA,June,Tornado,CULLMAN,1
+ALABAMA,March,Tornado,CALHOUN,1
+ALABAMA,September,Flash Flood,CLARKE,1
+ALABAMA,February,Tornado,WASHINGTON,1
+ALABAMA,December,Tornado,HOUSTON,1
+ALABAMA,April,Flash Flood,WASHINGTON,2
+ALABAMA,September,Flash Flood,CLARKE,2
+ALABAMA,September,Flash Flood,CHOCTAW,2
+ALABAMA,September,Flash Flood,CLARKE,2
+ALABAMA,April,Tornado,BALDWIN,2
+ALABAMA,April,Tornado,BALDWIN,2
+ALASKA,July,Flood,WRN P.W. SND & KENAI MTNS,2
+ALASKA,August,Flood,SUSITNA VALLEY,2
+ALASKA,October,Storm Surge/Tide,WRN P.W. SND & KENAI MTNS,2
+ALABAMA,April,Flash Flood,WILCOX,2
+ALABAMA,December,Flash Flood,CLARKE,2
+ALABAMA,April,Tornado,CRENSHAW,2
+ALABAMA,April,Tornado,CRENSHAW,2
+ALABAMA,April,Tornado,BALDWIN,2
+ALASKA,July,Flood,SUSITNA VALLEY,2
+ALASKA,October,Flood,KENAI PENINSULA,2
+ALABAMA,October,Tropical Storm,HENRY,2
+ALABAMA,December,Flash Flood,CHOCTAW,2
+ALABAMA,October,Tropical Storm,GENEVA,2
+ALABAMA,April,Flash Flood,CLARKE,2
+ALASKA,May,Flood,SUSITNA VALLEY,2
+ALABAMA,October,Hurricane,HOUSTON,2

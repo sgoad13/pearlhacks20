@@ -1,0 +1,81 @@
+STATE,MONTH_NAME,EVENT_TYPE,CZ_NAME,Severity
+FLORIDA,April,Tornado,MONROE,1
+FLORIDA,May,Tornado,MARTIN,1
+FLORIDA,July,Flood,MARION,1
+FLORIDA,June,Flood,FLAGLER,1
+FLORIDA,May,Tornado,BREVARD,1
+FLORIDA,September,Tropical Storm,MONROE/UPPER KEYS,1
+FLORIDA,August,Flash Flood,BAY,1
+FLORIDA,August,Flood,ORANGE,1
+FLORIDA,July,Flood,PALM BEACH,1
+FLORIDA,April,Tornado,BAY,1
+FLORIDA,February,Flood,HOLMES,1
+FLORIDA,April,Tornado,MONROE,1
+FLORIDA,December,Tornado,POLK,1
+FLORIDA,July,Tornado,MIAMI-DADE,1
+FLORIDA,May,Tornado,MARTIN,1
+FLORIDA,September,Tropical Storm,ESCAMBIA COASTAL,1
+FLORIDA,December,Flash Flood,SANTA ROSA,1
+FLORIDA,December,Flash Flood,HOLMES,1
+FLORIDA,May,Flood,BROWARD,1
+FLORIDA,May,Tornado,DE SOTO,1
+FLORIDA,December,Tornado,HILLSBOROUGH,1
+FLORIDA,June,Tornado,VOLUSIA,1
+FLORIDA,October,Tropical Storm,COASTAL JEFFERSON,1
+FLORIDA,May,Flood,BROWARD,1
+FLORIDA,October,Storm Surge/Tide,COASTAL CITRUS,1
+FLORIDA,May,Flood,HILLSBOROUGH,2
+FLORIDA,May,Flood,BROWARD,2
+FLORIDA,April,Tornado,PINELLAS,2
+FLORIDA,November,Tornado,SANTA ROSA,2
+FLORIDA,March,Wildfire,INLAND LEVY,2
+FLORIDA,February,Tornado,JACKSON,2
+FLORIDA,December,Tornado,MADISON,2
+FLORIDA,November,Tornado,PASCO,2
+FLORIDA,December,Tornado,MANATEE,2
+FLORIDA,December,Tornado,CHARLOTTE,2
+FLORIDA,October,Tropical Storm,CENTRAL WALTON,2
+FLORIDA,October,Tropical Storm,NORTH WALTON,2
+FLORIDA,October,Tropical Storm,SOUTH WALTON,2
+FLORIDA,December,Tornado,ORANGE,2
+FLORIDA,December,Tornado,POLK,2
+FLORIDA,April,Tornado,HILLSBOROUGH,2
+FLORIDA,April,Tornado,ESCAMBIA,2
+FLORIDA,December,Tornado,PASCO,2
+FLORIDA,October,Tropical Storm,INLAND TAYLOR,2
+FLORIDA,October,Tropical Storm,COASTAL TAYLOR,2
+FLORIDA,October,Tropical Storm,INLAND DIXIE,2
+FLORIDA,October,Tropical Storm,COASTAL DIXIE,2
+FLORIDA,October,Storm Surge/Tide,COASTAL LEVY,2
+FLORIDA,October,Tropical Storm,INLAND JEFFERSON,2
+FLORIDA,June,Tornado,HILLSBOROUGH,2
+FLORIDA,November,Tornado,PASCO,2
+FLORIDA,October,Tropical Storm,MADISON,2
+FLORIDA,October,Tropical Storm,LAFAYETTE,2
+FLORIDA,March,Wildfire,INLAND MANATEE,2
+FLORIDA,October,Tropical Storm,HOLMES,2
+FLORIDA,February,Tornado,HOLMES,2
+FLORIDA,November,Tornado,PINELLAS,2
+FLORIDA,November,Tornado,HERNANDO,2
+FLORIDA,November,Tornado,PASCO,2
+FLORIDA,March,Wildfire,COASTAL LEE,2
+FLORIDA,April,Tornado,OKALOOSA,2
+FLORIDA,June,Wildfire,COASTAL FRANKLIN,2
+FLORIDA,October,Storm Surge/Tide,COASTAL WAKULLA,4
+FLORIDA,October,Hurricane,COASTAL WAKULLA,4
+FLORIDA,October,Storm Surge/Tide,COASTAL GULF,4
+FLORIDA,October,Hurricane,COASTAL GULF,4
+FLORIDA,October,Hurricane,INLAND FRANKLIN,4
+FLORIDA,October,Storm Surge/Tide,COASTAL FRANKLIN,4
+FLORIDA,October,Hurricane,COASTAL FRANKLIN,5
+FLORIDA,October,Hurricane,LEON,5
+FLORIDA,October,Hurricane,INLAND GULF,5
+FLORIDA,October,Hurricane,INLAND WAKULLA,5
+FLORIDA,October,Hurricane,COASTAL BAY,6
+FLORIDA,October,Hurricane,INLAND BAY,6
+FLORIDA,October,Hurricane,WASHINGTON,6
+FLORIDA,October,Hurricane,GADSDEN,7
+FLORIDA,October,Hurricane,LIBERTY,8
+FLORIDA,October,Hurricane,JACKSON,8
+FLORIDA,October,Storm Surge/Tide,COASTAL BAY,8
+FLORIDA,October,Hurricane,CALHOUN,8
