@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Title Goes Here</title>
+		<link rel="stylesheet" type="text/css" href="./style.css">
+	</head>
+	<body>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="impact.html">Impact Estimator</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		  </ul>
+		<div class="body">
+			<label for="state">State:</label>
+			<select class="custom-select" id="state">
+				<option>Select One</option>
+				<option>Alabama</option>
+				<option>Alaska</option>
+				<option>Arizona</option>
+				<option>Arkansas</option>
+				<option>California</option>
+				<option>Colorado</option>
+				<option>Connecticut</option>
+				<option>Delaware</option>
+				<option>Florida</option>
+				<option>Georgia</option>
+				<option>Hawaii</option>
+				<option>Idaho</option>
+				<option>Illinois</option>
+				<option>Indiana</option>
+				<option>Iowa</option>
+				<option>Kansas</option>
+				<option>Kentucky</option>
+				<option>Louisiana</option>
+				<option>Maine</option>
+				<option>Maryland</option>
+				<option>Massachusetts</option>
+				<option>Michigan</option>
+				<option>Minnesota</option>
+				<option>Mississippi</option>
+				<option>Missouri</option>
+				<option>Montana</option>
+				<option>Nebraska</option>
+				<option>Nevada</option>
+				<option>New Hampshire</option>
+				<option>New Jersey</option>
+				<option>New Mexico</option>
+				<option>New York</option>
+				<option>North Carolina</option>
+				<option>North Dakota</option>
+				<option>Ohio</option>
+				<option>Oklahoma</option>
+				<option>Oregon</option>
+				<option>Pennsylvania</option>
+				<option>Rhode Island</option>
+				<option>South Carolina</option>
+				<option>South Dakota</option>
+				<option>Tennessee</option>
+				<option>Texas</option>
+				<option>Utah</option>
+				<option>Vermont</option>
+				<option>Virginia</option>
+				<option>Washington</option>
+				<option>West Virginia</option>
+				<option>Wisconsin</option>
+				<option>Wyoming</option>
+			</select>
+			
+			<label for="month">Month:</label>
+			<select class="custom-select" id="month">
+				<option>Select One</option>
+				<option>January</option>
+				<option>February</option>
+				<option>March</option>
+				<option>April</option>
+				<option>May</option>
+				<option>June</option>
+				<option>July</option>
+				<option>August</option>
+				<option>September</option>
+				<option>October</option>
+				<option>November</option>
+				<option>December</option>
+			</select>
+
+			<label for="storm">Storm Type:</label>
+			<select class="custom-select" id="storm">
+				<option>Select One</option>
+				<option>Avalanche</option>
+				<option>Coastal Flood</option>
+				<option>Flash Flood</option>
+				<option>Tornado</option>
+				<option>Hurricane</option>
+				<option>Storm Surge/Tide</option>
+				<option>Tropical Depression</option>
+				<option>Tropical Storm</option>
+				<option>Wildfire</option>
+			</select>
+
+			<button type="button" onclick="myFunction()">Try it</button>
+			  
+			<script>
+			  function myFunction() {
+				var x = document.getElementById("state");
+				var strUser = x.options[x.selectedIndex].text;
+			  	alert(strUser);
+				}
+			</script>
+		</div>
+		<script src="./hurricane-script.ts"></script>
+	</body>
+</html>
